@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react-swc'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Tono9087.github.io/', // Add this line
+  base: '/', // Change this to just '/'
 })
